@@ -92,7 +92,7 @@ algorithm-mar
 | **6일차 (수)** | 재활용 캠페인 | 골드 II | https://www.acmicpc.net/problem/22988 |
 | **7일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **8일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
+| **스터디** | 묘수풀이: 모독 | 플래티넘 IV | https://www.acmicpc.net/problem/17226 |
 
 ---
 
